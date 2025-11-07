@@ -26,6 +26,8 @@ The tutorial demonstrates how to:
 - Torch  
 - MACE-Torch  
 
+---
+
 ## Getting Started
 
 1. Download the file **`ase_tutorial.zip`** from this repository.  
@@ -34,6 +36,8 @@ The tutorial demonstrates how to:
    - Either directly in **Jupyter Notebook**, or  
    - Through an IDE such as **Visual Studio Code (VS Code)**.  
 4. Run the cells step by step to explore ASE, EAM, and MACE simulations.
+
+---
 
 ## License
 -Released under the MIT License.
