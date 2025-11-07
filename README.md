@@ -13,7 +13,7 @@ The tutorial demonstrates how to:
 ## Contents
 - `ase_tutorial.ipynb` — Main notebook with explanations and code.  
 - `Ni-Al.eam.fs` — Example EAM potential file.
-- Images folder
+-  `images/` — Folder containing figures used in the notebook 
 
 ---
 
@@ -25,3 +25,16 @@ The tutorial demonstrates how to:
 - ASE  
 - Torch  
 - MACE-Torch  
+
+## Getting Started
+
+1. Download the file **`ase_tutorial.zip`** from this repository.  
+2. Unzip it in your preferred working directory.  
+3. Open the notebook:
+   - Either directly in **Jupyter Notebook**, or  
+   - Through an IDE such as **Visual Studio Code (VS Code)**.  
+4. Run the cells step by step to explore ASE, EAM, and MACE simulations.
+
+## License
+-Released under the MIT License.
+-You are free to use and adapt this material for educational or research purposes.
