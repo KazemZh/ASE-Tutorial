@@ -10,14 +10,14 @@ The tutorial demonstrates how to:
 
 ---
 
-## 📦 Contents
+## Contents
 - `ase_tutorial.ipynb` — Main notebook with explanations and code.  
 - `Ni-Al.eam.fs` — Example EAM potential file.
 - Images folder
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 - Python ≥ 3.9  
 - NumPy  
 - SciPy  
